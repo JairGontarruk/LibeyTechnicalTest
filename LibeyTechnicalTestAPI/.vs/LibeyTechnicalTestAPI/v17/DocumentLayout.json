@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A024-F601-40BF-9E74-EF848DAE139A}|LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestapi\\controllers\\libeyuser\\libeyusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC46A024-F601-40BF-9E74-EF848DAE139A}|LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI.csproj|solutionrelative:libeytechnicaltestapi\\controllers\\libeyuser\\libeyusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\application\\interfaces\\ilibeyuseraggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\application\\interfaces\\ilibeyuseraggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\application\\libeyuseraggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\application\\libeyuseraggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\application\\interfaces\\ilibeyuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\application\\interfaces\\ilibeyuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\infrastructure\\libeyuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\infrastructure\\libeyuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\application\\ubigeoaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\application\\ubigeoaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A024-F601-40BF-9E74-EF848DAE139A}|LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestapi\\controllers\\ubigeo\\ubigeocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC46A024-F601-40BF-9E74-EF848DAE139A}|LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI.csproj|solutionrelative:libeytechnicaltestapi\\controllers\\ubigeo\\ubigeocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\application\\interfaces\\iubigeoaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\application\\interfaces\\iubigeoaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\application\\interfaces\\iubigeorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\application\\interfaces\\iubigeorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\infrastructure\\ubigeorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\infrastructure\\ubigeorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A024-F601-40BF-9E74-EF848DAE139A}|LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestapi\\middleware\\diextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC46A024-F601-40BF-9E74-EF848DAE139A}|LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI.csproj|solutionrelative:libeytechnicaltestapi\\middleware\\diextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46A024-F601-40BF-9E74-EF848DAE139A}|LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestapi\\controllers\\documenttype\\documenttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC46A024-F601-40BF-9E74-EF848DAE139A}|LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI.csproj|solutionrelative:libeytechnicaltestapi\\controllers\\documenttype\\documenttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\application\\documenttypeaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\application\\documenttypeaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\infrastructure\\documenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\infrastructure\\documenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\efcore\\configuration\\libeyuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\efcore\\configuration\\libeyuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\application\\interfaces\\idocumenttypeaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\application\\interfaces\\idocumenttypeaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\application\\dto\\documenttyperesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\application\\dto\\documenttyperesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\application\\interfaces\\idocumenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\application\\interfaces\\idocumenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\application\\dto\\ubigeoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\application\\dto\\ubigeoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\application\\dto\\provinceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\application\\dto\\provinceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\application\\dto\\regionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\application\\dto\\regionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\application\\dto\\libeyusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\application\\dto\\libeyusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\application\\dto\\libeyuserresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\application\\dto\\libeyuserresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|c:\\users\\jair\\documents\\pruebaexamentecnico\\libeytechnicaltest-main\\libeytechnicaltestapi\\libeytechnicaltestdomain\\libeyuseraggregate\\domain\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39443A03-57B1-461E-BB4E-148315C70305}|LibeyTechnicalTestDomain\\LibeyTechnicalTestDomain.csproj|solutionrelative:libeytechnicaltestdomain\\libeyuseraggregate\\domain\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibeyUserController.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI\\Controllers\\LibeyUser\\LibeyUserController.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestAPI\\Controllers\\LibeyUser\\LibeyUserController.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI\\Controllers\\LibeyUser\\LibeyUserController.cs",
+              "RelativeToolTip": "LibeyTechnicalTestAPI\\Controllers\\LibeyUser\\LibeyUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:19:41.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibeyUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Infrastructure\\LibeyUserRepository.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Infrastructure\\LibeyUserRepository.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Infrastructure\\LibeyUserRepository.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Infrastructure\\LibeyUserRepository.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAIwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:54:45.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILibeyUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\ILibeyUserRepository.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\ILibeyUserRepository.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\ILibeyUserRepository.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\ILibeyUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:10:22.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibeyUserAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\LibeyUserAggregate.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\LibeyUserAggregate.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\LibeyUserAggregate.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\LibeyUserAggregate.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:51:15.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILibeyUserAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\ILibeyUserAggregate.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\ILibeyUserAggregate.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\ILibeyUserAggregate.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\ILibeyUserAggregate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:59:22.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UbigeoAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\UbigeoAggregate.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\UbigeoAggregate.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\UbigeoAggregate.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\UbigeoAggregate.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwB4AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:15:32.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UbigeoController.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI\\Controllers\\Ubigeo\\UbigeoController.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestAPI\\Controllers\\Ubigeo\\UbigeoController.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI\\Controllers\\Ubigeo\\UbigeoController.cs",
+              "RelativeToolTip": "LibeyTechnicalTestAPI\\Controllers\\Ubigeo\\UbigeoController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowCEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:16:02.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUbigeoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IUbigeoRepository.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IUbigeoRepository.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IUbigeoRepository.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IUbigeoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:14:18.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UbigeoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Infrastructure\\UbigeoRepository.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Infrastructure\\UbigeoRepository.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Infrastructure\\UbigeoRepository.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Infrastructure\\UbigeoRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwCoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:13:58.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUbigeoAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IUbigeoAggregate.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IUbigeoAggregate.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IUbigeoAggregate.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IUbigeoAggregate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:14:47.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DIExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI\\Middleware\\DIExtensions.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestAPI\\Middleware\\DIExtensions.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI\\Middleware\\DIExtensions.cs",
+              "RelativeToolTip": "LibeyTechnicalTestAPI\\Middleware\\DIExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:29:49.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DocumentTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI\\Controllers\\DocumentType\\DocumentTypeController.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestAPI\\Controllers\\DocumentType\\DocumentTypeController.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI\\Controllers\\DocumentType\\DocumentTypeController.cs",
+              "RelativeToolTip": "LibeyTechnicalTestAPI\\Controllers\\DocumentType\\DocumentTypeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:49:02.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DocumentTypeAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DocumentTypeAggregate.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DocumentTypeAggregate.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DocumentTypeAggregate.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DocumentTypeAggregate.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:27:39.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DocumentTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Infrastructure\\DocumentTypeRepository.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Infrastructure\\DocumentTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Infrastructure\\DocumentTypeRepository.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Infrastructure\\DocumentTypeRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:01:13.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDocumentTypeAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IDocumentTypeAggregate.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IDocumentTypeAggregate.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IDocumentTypeAggregate.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IDocumentTypeAggregate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:28:35.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibeyUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\EFCore\\Configuration\\LibeyUserConfiguration.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\EFCore\\Configuration\\LibeyUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\EFCore\\Configuration\\LibeyUserConfiguration.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\EFCore\\Configuration\\LibeyUserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:39:08.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDocumentTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IDocumentTypeRepository.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IDocumentTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IDocumentTypeRepository.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\IDocumentTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:03:44.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DocumentTypeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\DocumentTypeResponse.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\DocumentTypeResponse.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\DocumentTypeResponse.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\DocumentTypeResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:09:35.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UbigeoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\UbigeoResponse.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\UbigeoResponse.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\UbigeoResponse.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\UbigeoResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:17:46.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProvinceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\ProvinceResponse.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\ProvinceResponse.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\ProvinceResponse.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\ProvinceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:15:02.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\RegionResponse.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\RegionResponse.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\RegionResponse.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\RegionResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:12:20.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LibeyUsersResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\LibeyUsersResponse.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\LibeyUsersResponse.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\LibeyUsersResponse.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\LibeyUsersResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:11:12.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LibeyUserResponses.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\LibeyUserResponses.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\LibeyUserResponses.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\LibeyUserResponses.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\DTO\\LibeyUserResponses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:41:14.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Province.cs",
+              "DocumentMoniker": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Domain\\Province.cs",
+              "RelativeDocumentMoniker": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Domain\\Province.cs",
+              "ToolTip": "C:\\Users\\Jair\\Documents\\PruebaExamenTecnico\\LibeyTechnicalTest-main\\LibeyTechnicalTestAPI\\LibeyTechnicalTestDomain\\LibeyUserAggregate\\Domain\\Province.cs",
+              "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Domain\\Province.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T01:45:21.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
